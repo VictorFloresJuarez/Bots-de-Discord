@@ -15,10 +15,10 @@ Otra forma de ese comando sería esta:
     if message.content('algo'):
       await message.channel.send('algo')
     
-----------------------------------------------------------------------------------------------------
     
 Dicho comando ahora funciona de la siguiente manera, si TODO el contenido del mensaje es igual al string 'algo' entonces enviará un mensaje. Ahora quiero que notes que siempre usamos message.content. Porqué? No sería suficiente con imprimir solo message? Pues no, porque resulta que message es es una clase totalmente distinta a un String, es por eso que siempre que se quiera manipular el contenido del mensaje se debe usar como message.content. 
 
+----------------------------------------------------------------------------------------------------
 
     if message.content.startswith('Copia lo que digo: '):
       await message.channel.send(message.content)
