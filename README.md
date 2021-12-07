@@ -31,3 +31,13 @@ Por favor sigue los pasos descritos en este orden:
 - [Paso 7. Mantener activo](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Mantener%20activo.md)
 - [Paso 8. Monitoreo del bot](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Monitorizaci%C3%B3n.md)
 - [Paso 9. Dos tipos de comando](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Ejemplos%20de%20comando.md)
+
+## Conclusiones
+
+Como puedes ver, esta forma de crear bots de Discord es bastante sencilla, porque ese es el objetivo. Desde utilizar Python para desarrollarlo hasta replit para codificarlo todo en este proceso se pensó para conseguir el mejor resultado con los requisitos más sencillos.
+
+Los comandos vistos son solo el comienzo de dichos bots, puedes consultar mucha más información aquí:
+
+- [API Reference](https://discordpy.readthedocs.io/en/stable/api.html)
+
+Como dije, esto es solo lo más básico, aplicando conocimientos de Python de la forma adecuada, junto con todas las opciones que ofrece Discord.py te ayudarán a crear un bot mucho más robusto.
