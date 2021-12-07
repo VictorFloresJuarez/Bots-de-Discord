@@ -15,8 +15,9 @@ Tras esto inserta el segundo código que te aparece, el que está abajo del impo
 ![paso5.4](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso5.4.png?raw=true)
 
 Ahora introduce estas sentencias extra en tu archivo main:
-   client = discord.Client()
-    client.run(my_secret)
+
+      client = discord.Client()   
+      client.run(my_secret)
 
 Tu código ahora debe tener esta apariencia:
 
