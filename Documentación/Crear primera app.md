@@ -1,6 +1,6 @@
 # Crear tu primera app
 
-Para hacer este primer paso ve a Discord Developer portal Aquí tienes el link: https://discord.com/developers/docs/intro. Inicia sesión y vetete a la sección de aplicación.
+Para hacer este primer paso ve a Discord Developer portal aquí tienes el link: https://discord.com/developers/docs/intro. Inicia sesión y vetete a la sección de aplicación.
 
 ![paso1.1](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso1.1.png?raw=true)
 
