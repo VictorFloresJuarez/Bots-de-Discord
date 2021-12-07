@@ -27,7 +27,7 @@ Por favor sigue los pasos descritos en este orden:
 - [Paso 3. Invitar a tu bot a su primer servidor](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Invitar%20bot%20al%20primer%20servidor.md)
 - [Paso 4. Crear tu proyecto en replit](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Crear%20proyecto%20en%20replit.md)
 - [Paso 5. Activar tu bot](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Activar%20bot.md)
-- [Paso 6. Primer comando]()
+- [Paso 6. Primer comando](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Primer%20comando.md)
 - [Paso 7. Mantener activo]()
 - [Paso 8. Monitoreo del bot]()
 - [Paso 9. Dos tipos de comando]()
