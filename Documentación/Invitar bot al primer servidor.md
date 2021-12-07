@@ -11,4 +11,4 @@ Después de esto te saldrá un link en la parte inferior, entra a ese link e inv
 ![paso3.2](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso3.2.png?raw=true)
 
 
-# [Paso 4](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Crear%20proyecto%20en%20replit.md)
+# [Siguiente paso](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Crear%20proyecto%20en%20replit.md)
