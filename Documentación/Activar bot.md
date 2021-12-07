@@ -25,6 +25,7 @@ Tu código ahora debe tener esta apariencia:
 Ahora al ejecutar el archivo podrás notar como tu bot pasa de estar desconectado a estar conectado.
 
 Después de ejecutar:
+
 ![paso5.7](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso5.7.png?raw=true)
 
 # Notas
