@@ -27,3 +27,6 @@ Con dicho link ve a UptimeRobot y agrega un nuevo monitor. Llena los espacios co
 Crea el monitor, detén la ejecución de bot y vuelve a correr el bot. Tras esto refresca la página de UptimeRobot un par de veces
 
 ![paso8.4](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso8.4.png?raw=true)
+
+
+# [Extra](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Ejemplos%20de%20comando.md)
