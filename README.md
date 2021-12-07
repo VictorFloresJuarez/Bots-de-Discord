@@ -30,4 +30,4 @@ Por favor sigue los pasos descritos en este orden:
 - [Paso 6. Primer comando](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Primer%20comando.md)
 - [Paso 7. Mantener activo](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Mantener%20activo.md)
 - [Paso 8. Monitoreo del bot](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Monitorizaci%C3%B3n.md)
-- [Paso 9. Dos tipos de comando]()
+- [Paso 9. Dos tipos de comando](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Ejemplos%20de%20comando.md)
