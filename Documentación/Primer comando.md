@@ -12,3 +12,6 @@ El 'client.event' es, en términos sencillos, el evento. A dichos eventos siempr
 Ahora, el primer if se encarga de que el bot no responda a los mensajes que el mismo manda por el canal de texto.
 
 El segundo básicamente está diciendo que si el mensaje introducido comienza por 'Ping' el bot debe enviar como mensaje 'Pong'
+
+
+# [Siguiente paso](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Mantener%20activo.md)
