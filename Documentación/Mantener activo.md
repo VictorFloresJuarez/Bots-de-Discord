@@ -44,3 +44,6 @@ Si seguiste todos los pasos correctamente tu código debe tener esta apariencia:
 
 ![paso7.3](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso7.3.png?raw=true)
 
+
+
+# [Siguiente paso](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Monitorizaci%C3%B3n.md)
