@@ -32,7 +32,9 @@ En dicho archivo copia y pega este código:
   
 # Paso 3:
 
-En el archivo main realiza el siguiente import: from mantenerEncendido import keep_alive
+En el archivo main realiza el siguiente import: 
+
+    from mantenerEncendido import keep_alive
 
 # Paso 4: 
 
