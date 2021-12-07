@@ -12,21 +12,21 @@ Crea un nuevo archivo en tu proyecto, el nombre puede ser el que gustes, la exte
 
 En dicho archivo copia y pega este código:
 
-from flask import Flask
-from threading import Thread
+    from flask import Flask
+    from threading import Thread
 
-app = Flask('')
+    app = Flask('')
 
-@app.route('/')
-def home():
-  return "Hello, I am alive!"
+    @app.route('/')
+    def home():
+      return "Hello, I am alive!"
 
-def run():
-  app.run(host='0.0.0.0', port=8080)
+    def run():
+      app.run(host='0.0.0.0', port=8080)
 
-def keep_alive():
-  t = Thread(target=run)
-  t.start()
+    def keep_alive():
+      t = Thread(target=run)
+      t.start()
   
 ![paso7.2](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso%207.2.png?raw=true)
   
