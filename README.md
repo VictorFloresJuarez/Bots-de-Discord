@@ -9,6 +9,7 @@ Antes de comenzar con la guía, algunas cosas que necesitas para poder crear tu 
 - Una computadora
 - Una cuenta de Discord (no importa si no tienes Nitro)
 - Una cuenta de replit
+- Una cuenta de UpTimeRobot
 - Conocimientos básicos en Python.
 
 
