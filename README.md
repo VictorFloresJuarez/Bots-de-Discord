@@ -21,7 +21,7 @@ Esta forma de crear bots de Discord es una de las tantas que hay, en mi opinión
 
 Por favor sigue los pasos descritos en este orden:
 
-- [Paso 1. Crear tu primera aplicación en Discord]()
+- [Paso 1. Crear tu primera aplicación en Discord](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Crear%20primera%20app.md)
 - [Paso 2. Crear el bot a partir de la aplicación]()
 - [Paso 3. Invitar a tu bot a su primer servidor]()
 - [Paso 4. Crear tu proyecto en replit]()
