@@ -17,7 +17,7 @@ Antes de comenzar con la guía, algunas cosas que necesitas para poder crear tu 
 Esta forma de crear bots de Discord es una de las tantas que hay, en mi opinión es una de las mejores pues no necesitas instalar ningún software en tu computadora. Lo que lo hace perfecto para aquellos que no tienen una computadora tan potente.
 
 
-## Iniciamos el proceso
+## Proceso
 
 Por favor sigue los pasos descritos en este orden:
 
