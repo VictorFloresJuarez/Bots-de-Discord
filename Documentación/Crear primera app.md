@@ -12,4 +12,4 @@ En dicha sección haz click en New Aplication, dale nombre y personaliza lo que 
 
 
 
-[Siguiente paso](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Crear%20bot%20a%20partir%20de%20la%20app.md)
+# [Siguiente paso](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Crear%20bot%20a%20partir%20de%20la%20app.md)
