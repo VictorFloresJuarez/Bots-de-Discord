@@ -22,6 +22,10 @@ Tu código ahora debe tener esta apariencia:
 
 ![paso5.5](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso5.5.png?raw=true)
 
+Ahora al ejecutar el archivo podrás notar como tu bot pasa de estar desconectado a estar conectado.
+
+Después de ejecutar:
+![paso5.7](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Recursos/paso5.7.png?raw=true)
 
 # Notas
 
@@ -30,3 +34,7 @@ El token funciona como una especie de ID para tu bot, cada bot tiene su TOKEN ú
 El token funciona para que sepamos qué bot se está manipulando.
 
 No debes compartir este token con nadie, con este cualquier persona desde cualquier lugar puede modificar el comportamiento de tu bot.
+
+La sentencia client = discord.Client() es básicamente crear al bot en el código.
+
+La sentencia client.run(my_secret) hará que el bot con el TOKEN = my_secret sea encendido.
