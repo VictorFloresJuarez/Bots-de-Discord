@@ -39,3 +39,6 @@ No debes compartir este token con nadie, con este cualquier persona desde cualqu
 La sentencia client = discord.Client() es básicamente crear al bot en el código.
 
 La sentencia client.run(my_secret) hará que el bot con el TOKEN = my_secret sea encendido.
+
+
+# [Siguiente paso](https://github.com/VictorFloresJuarez/Bots-de-Discord/blob/main/Documentaci%C3%B3n/Primer%20comando.md)
