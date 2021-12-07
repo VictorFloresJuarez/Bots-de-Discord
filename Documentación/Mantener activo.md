@@ -38,7 +38,9 @@ En el archivo main realiza el siguiente import:
 
 # Paso 4: 
 
-Agrega esta sentencia antes del client.run: keep_alive()
+Agrega esta sentencia antes del client.run: 
+
+    keep_alive()
 
 # Vista final
 
